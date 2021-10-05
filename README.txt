@@ -23,4 +23,4 @@ Trigonmetric check
 	Create answer
 Solve method
 Power rule
-Hello World
+Hello Worl
